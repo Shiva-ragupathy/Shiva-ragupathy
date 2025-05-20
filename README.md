@@ -1,7 +1,7 @@
 🚀 About Me
 Hey Everyone... Myself Shiva Rama Krishnan
 
-![1 )](https://github.com/user-attachments/assets/836cf357-6ef1-4154-ae7a-0065a8d0af9c)
+<img src="![1 )](https://github.com/user-attachments/assets/836cf357-6ef1-4154-ae7a-0065a8d0af9c)  width="100">
 
 
 Experienced Cloud and DevOps engineer for around 5 years. Proficient in cloud operations, continuous integration, automation, systems administration, and configuration management. Worked extensively on AWS Cloud and IAAS platforms, covering SCM, build/release management, and CI/CD to reduce developer workload by 50%. Responsibilities encompass monitoring, automation, deployment, documentation, support, and troubleshooting.
