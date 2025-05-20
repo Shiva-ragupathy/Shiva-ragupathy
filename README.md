@@ -38,7 +38,7 @@
 
 🤝 I’m open to collaborating on DevOps automation and AI-integrated cloud apps
 
-💬 Ask me about Python, Go, Bash, AWS, and DevOps pipelines
+💬 Ask me about Python, Terraform, Bash, AWS, and DevOps pipelines
 
 📫 Reach me at shivaramakrishnanragupathy@gmail.com
 
