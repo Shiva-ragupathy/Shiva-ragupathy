@@ -1,16 +1,19 @@
-## Hi there 👋
+🚀 About Me
+Hey Everyone... Myself Shiva Rama Krishnan
 
-<!--
-**Shiva-ragupathy/Shiva-ragupathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Cloud and DevOps engineer for around 5 years. Proficient in cloud operations, continuous integration, automation, systems administration, and configuration management. Worked extensively on AWS Cloud and IAAS platforms, covering SCM, build/release management, and CI/CD to reduce developer workload by 50%. Responsibilities encompass monitoring, automation, deployment, documentation, support, and troubleshooting.
 
-Here are some ideas to get you started:
+🛠 Skills
+- Linux
+- jenkins
+- maven
+- Docker
+- Ansible
+- Terraform
+- splunk
+- prometheus
+- Graffana
+- Kubernetes.
+CLOUD TECHNOLOGIES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Amazon Web Services - EC2 instances, ALB, ASG, EKS, ECS, ECR, EFS, EBS, VPC, SUBNETS, SECURITY GROUPS, AWS CODE BUILD PIPELINE, CLOUDWATCH.
