@@ -32,6 +32,14 @@
 </p>
 
 ---
+<h2 align="center">MY INFORMATION</h2>
+🛠️ I’m currently working on a cloud-native platform using AWS and Kubernetes
+
+🤝 I’m open to collaborating on DevOps automation and AI-integrated cloud apps
+
+💬 Ask me about Python, Go, Bash, AWS, and DevOps pipelines
+
+📫 Reach me at shivaramakrishnanragupathy@gmail.com
 
 ### 📊 GitHub Stats
 
@@ -45,8 +53,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/shiva-ragupathy)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:shivaramakrishnanragupathy@gmail.com)
 
 
 ### ⚡ Fun Fact
