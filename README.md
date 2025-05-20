@@ -1,62 +1,53 @@
 <h1 align="center">Hi 👋, I'm Shiva Rama Krishnan</h1>
-<h3 align="center">🚀 Cloud & DevOps Engineer | AWS | CI/CD | Kubernetes</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS Certified | Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/836cf357-6ef1-4154-ae7a-0065a8d0af9c" alt="Shiva Rama Krishnan" width="300" style="border-radius: 12px;" />
+  <img src="https://github.com/user-attachments/assets/836cf357-6ef1-4154-ae7a-0065a8d0af9c" width="300" alt="profile" />
 </p>
-
-
 
 ---
 
-### 🧑‍💻 About Me
+### 🚀 About Me
 
-I'm a passionate **Cloud and DevOps Engineer** with 5+ years of experience in cloud infrastructure, CI/CD pipelines, automation, monitoring, and release management. I’ve worked extensively on AWS and IaaS platforms — helping teams streamline their operations and reduce developer workload by up to **50%**.
-
-My work is focused on:
-- 🚀 Cloud Architecture & Automation
-- 🔄 CI/CD Pipeline Management
-- 📈 Monitoring, Logging, and Security
-- 🛠 Infrastructure as Code (IaC)
+🔧 5+ years of experience in Cloud Infrastructure, CI/CD Pipelines, Automation & Monitoring  
+☁️ Hands-on with AWS, Kubernetes, Docker, Jenkins, Terraform, Ansible, and more  
+📈 Passionate about improving developer efficiency and reducing deployment times  
+🧠 Continuous learner and open-source contributor  
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🐧 OS & CI/CD
-- Linux, Shell Scripting
-- Jenkins, GitHub Actions
-- Maven, Nexus
-
-#### 🐳 Containerization & Orchestration
-- Docker
-- Kubernetes (EKS, self-managed)
-
-#### ⚙️ Configuration & IaC
-- Ansible
-- Terraform
-- Helm
-
-#### 📊 Monitoring & Logging
-- Prometheus & Grafana
-- Splunk
-- AWS CloudWatch
-
-#### ☁️ Cloud (AWS)
-- **Compute**: EC2, ALB, ASG, Lambda
-- **Containers**: EKS, ECS, ECR
-- **Storage**: S3, EBS, EFS
-- **Networking**: VPC, Subnets, Security Groups
-- **CI/CD**: CodeBuild, CodePipeline
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"/>
+  <!-- Add more icons as needed -->
+</p>
 
 ---
 
-### 📫 Connect With Me
+### 📊 GitHub Stats
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your.shivaramakrishnanragupathy@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Shiva's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:you@example.com)
+
 
 ### ⚡ Fun Fact
 
