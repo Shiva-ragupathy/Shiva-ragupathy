@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-🔧 5+ years of experience in Cloud Infrastructure, CI/CD Pipelines, Automation & Monitoring  
+🔧 One of experience in Cloud Infrastructure, CI/CD Pipelines, Automation & Monitoring  
 ☁️ Hands-on with AWS, Kubernetes, Docker, Jenkins, Terraform, Ansible, and more  
 📈 Passionate about improving developer efficiency and reducing deployment times  
 🧠 Continuous learner and open-source contributor  
